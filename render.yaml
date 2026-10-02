@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: beverage-products-api
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: waitress-serve --listen=0.0.0.0:$PORT api_product.app:app

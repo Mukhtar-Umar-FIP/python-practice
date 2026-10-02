@@ -1,0 +1,1 @@
+"""Beverage products JSON API."""
