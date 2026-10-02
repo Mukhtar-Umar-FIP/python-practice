@@ -1,4 +1,4 @@
-# FIP DELIVERABLE: Beverage Shop
+# FIP Delivarable
 
 This is a small Python practice project based on a simple beverage shop. It contains the eight exercises cover basic Python concepts, as well as a simple API for managing beverage products.
 
